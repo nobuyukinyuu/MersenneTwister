@@ -1,0 +1,22 @@
+# Ignore the build folder
+/*.build/
+
+# Ignore the docs folder
+/*.docs/
+
+# Ignore Jungle IDE files
+*.jungle*
+*.jiproj*
+*.jipo
+*.JILayout
+
+# Ignore junk
+Thumbs.db
+desktop.ini
+.dropbox
+
+# Ignore compiled APKs
+*.apk
+
+# Ignore debug log
+debug.log
