@@ -1,3 +1,5 @@
+![Mersenne Twister](http://i.imgur.com/XBaL6fI.png)
+
 Known Issues
 ===============
 
